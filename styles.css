@@ -1,0 +1,22 @@
+/* 面板样式 */
+#font-panel {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  background-color: rgba(255, 255, 255, 0.9);
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 8px;
+  z-index: 1000;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+#font-panel label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+#font-select {
+  width: 100%;
+  padding: 4px;
+}
