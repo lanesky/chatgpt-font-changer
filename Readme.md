@@ -2,6 +2,13 @@
 
 **ChatGPT Font Changer** is a Chrome extension that allows users to customize the font used during ChatGPT conversations. It provides a simple user interface to select fonts and apply them to the ChatGPT interface for a more personalized experience.
 
+## Note
+
+The chrome extension has been published on chrome web store.
+
+https://chromewebstore.google.com/detail/chatgpt-font-changer/jcoeeanipdllpdoccppjpmimlhofoapm
+
+
 ## Features
 
 - Choose from a variety of system fonts, including popular options and ones optimized for readability.
